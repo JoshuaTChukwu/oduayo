@@ -1,0 +1,27 @@
+#boy{
+    background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:35em;
+    margin-top: -25px;
+
+}
+.imageBody{
+    text-align: center;
+    padding-top:10em
+}
+.smash{
+    padding-top: 20px;
+}
+h1{
+    font-size:30px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+   
+}
+.carousel-item img{
+    height:20em;
+    width:100%
+}
